@@ -1,34 +1,44 @@
-### Olá pessoal, eu sou o Marcelo Hirukawa, apaixonado por tecnologia, principalmente por CLOUD + DEVOPS. 👋
-
-<div align="center">
-  <a href="https://github.com/mhiruka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhiruka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhiruka&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mar-Jen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Mar-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Mar-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
-  <img align="center" alt="Mar-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Mar-Kub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
-  <img align="center" alt="Mar-Lin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Mar-Az" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
-  <img align="center" alt="Mar-Am" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+[![Codewars](https://www.codewars.com/users/arthurdiegoo/badges/micro)](https://www.codewars.com/users/arthurdiegoo/)
+[![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-andrade-fullstack-dev/)](https://www.linkedin.com/in/arthur-andrade-fullstack-dev/)
+[![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.diegoo@hotmail.com)](mailto:arthur.diegoo@hotmail.com)
+[![DEV TO](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/arthurdiegoo)](https://dev.to/arthurdiegoo)
+### Senior Software Developer @ X-Team | Fox
+<img src="https://i.ibb.co/QJZdmpv/XOsX.gif" width="100" height="100" />
+## 🌀 A little more about me:
+```typescript
+class Arthur extends Human {
+  name: string;
+  nationality: string;
   
-          
-</div>
+  constructor() {
+    super();
+    this.name = "Arthur Andrade";
+    this.nationality = "Brazilian";
+  }
   
-  ##
- 
-<div> 
-
-  <a href = "mailto:mhiruka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcelo-hirukawa-8b644431/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://gitlab.com/mhiruka" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
+  languages: Array<string> = [
+    "Portuguese",
+    "English",
+    "Spanish",
+    "German",
+    "French",
+  ];
   
-  
- 
- 
-</div>
-
-
+  technologies: {
+    JavaScript:     ["React.js", "Angular.js", "Vue"];
+    Python:         ["Django", "TurboGears", "Flask", "Pyramid"];
+    GoLang:         ["Martini", "GinGonic", "Gorilla", "Mango"];
+    APIs:           ["REST", "SOAP", "GraphQL"];
+    Events:         ["RabbitMQ", "Kafka", "Redis"];
+    Design:         ["Bulma", "Bootstrap", "AntDesign", "Material-UI", "Kendo-UI"];
+    CloudComputing: ["Serverless", "Amplify", "AWS", "Docker", "Kubernetes"];
+  };
+}
+```
+---
+## ❄️ Current Personal Projects:
+- CLI Tooling
+- Artificial Intelligence
+- Serverless Solutions
+- Knowledge Sharing
+`💬 Ask me about anything written using JavaScript and Python`

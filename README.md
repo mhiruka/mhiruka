@@ -7,7 +7,7 @@
 ## 🌀 A little more about me:
 
 ```typescript
-class Arthur extends Human {
+class Hirukawa extends Human {
   name: string;
   nationality: string;
   

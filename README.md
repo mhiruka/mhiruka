@@ -37,4 +37,3 @@ class Hirukawa extends Human {
 - Artificial Intelligence
 - Serverless Solutions
 - Knowledge Sharing
-`💬 Ask me about anything written using JavaScript and Python`

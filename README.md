@@ -24,13 +24,10 @@ class Arthur extends Human {
   ];
   
   technologies: {
-    JavaScript:     ["React.js", "Angular.js", "Vue"];
-    Python:         ["Django", "TurboGears", "Flask", "Pyramid"];
-    GoLang:         ["Martini", "GinGonic", "Gorilla", "Mango"];
-    APIs:           ["REST", "SOAP", "GraphQL"];
-    Events:         ["RabbitMQ", "Kafka", "Redis"];
-    Design:         ["Bulma", "Bootstrap", "AntDesign", "Material-UI", "Kendo-UI"];
-    CloudComputing: ["Serverless", "Amplify", "AWS", "Docker", "Kubernetes"];
+    GoLang:               ["GinGonic"];
+    Operational systems:  ["Linux", "Microsoft Windows"]
+    Security:             ["IBSEC", "IDESP Ethical Hacking Foundation - EHF EXIN"]
+    CloudComputing:       ["Serverless", "The Cloud BootCamp", "AWS", "Docker", "Kubernetes", "Google Cloud", "Microsoft Azure", "Oracle OCI"];
   };
 }
 ```

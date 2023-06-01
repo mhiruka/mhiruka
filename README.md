@@ -1,5 +1,5 @@
 
-[![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-andrade-fullstack-dev/)](https://www.linkedin.com/in/arthur-andrade-fullstack-dev/)
+[![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-hirukawa-8b644431/)]([https://www.linkedin.com/in/arthur-andrade-fullstack-dev/](https://www.linkedin.com/in/marcelo-hirukawa-8b644431/))
 [![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.diegoo@hotmail.com)](mailto:arthur.diegoo@hotmail.com)
 [![DEV TO](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/arthurdiegoo)](https://dev.to/arthurdiegoo)
 ### Senior Software Developer @ X-Team | Fox

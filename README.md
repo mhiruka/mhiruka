@@ -1,39 +1,27 @@
+# Hi, I'm Marcelo Hirukawa - ()813 W4n H1ruk4
 
+### ~$ Whoami <img src="https://i.ibb.co/QJZdmpv/XOsX.gif" width="100" height="100" />
+
+- I'm a Red Team Analyst and Pentester
+- Studying web hacking, web API security, and mobile exploitation
+- Certificate in providers:  AWS | Microsoft Azure | Google Cloud | Oracle Cloud |
+- Studying Cloud & DevOps & Web Security
+- 
+##
+### ~$ Formal Education
+- Degree in Analysis and systems development
+- Postgraduate Degree in Software Engineering
+- Postgraduate Degree in Offensive Security and Cyber ​​Intelligence
+
+##
+### ~$ Skills e Linguagens
+![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&logo=hackaday&color=black)&nbsp;
+![Security](https://img.shields.io/badge/-Security-05122A?style=flat&logo=hackaday&color=black)&nbsp;
+![RedTeam](https://img.shields.io/badge/RedTeam-FF0000?style=flat&logo=hackaday&logoColor=white)&nbsp;
+![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+
+##
+### ~$ Social
 [![Connect](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-hirukawa-8b644431/)
 [![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hiruka@yahoo.com.br)](mailto:hiruka@yahoo.com.br)
-[![DEV TO](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/arthurdiegoo)](https://dev.to/arthurdiegoo)
-### Infrastructure Analyst focused on Cloud & DevOps | AWS | Microsoft Azure | Google Cloud | Oracle Cloud | 
-<img src="https://i.ibb.co/QJZdmpv/XOsX.gif" width="100" height="100" />
-## 🌀 A little more about me:
-
-```typescript
-class Hirukawa extends Human {
-  name: string;
-  nationality: string;
-  
-  constructor() {
-    super();
-    this.name = "Marcelo Hirukawa";
-    this.gamename = "ObiWanHiruka
-    this.nationality = "Brazilian";
-  }
-  
-  languages: Array<string> = [
-    "Portuguese",
-    "English",
-  ];
-  
-  technologies: {
-    GoLang:               ["GinGonic"];
-    Operational systems:  ["Linux", "Microsoft Windows"]
-    Security:             ["IBSEC", "IDESP Ethical Hacking Foundation - EHF EXIN"]
-    CloudComputing:       ["Serverless", "The Cloud BootCamp", "AWS", "Docker", "Kubernetes", "Google Cloud", "Microsoft Azure", "Oracle OCI"];
-  };
-}
-```
----
-## ❄️ Current Personal Projects:
-- CLI Tooling
-- Artificial Intelligence
-- Serverless Solutions
-- Knowledge Sharing

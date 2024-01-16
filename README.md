@@ -2,11 +2,10 @@
 
 ### ~$ Whoami <img src="https://i.ibb.co/QJZdmpv/XOsX.gif" width="100" height="100" />
 
-- I'm a Red Team Analyst and Pentester
 - Studying web hacking, web API security, and mobile exploitation
+- Studying Devops Git Lab, Docker, Kubernets, Jenkins, Observability
 - Certificate in providers:  AWS | Microsoft Azure | Google Cloud | Oracle Cloud |
-- Studying Cloud & DevOps & Web Security
-- 
+
 ##
 ### ~$ Formal Education
 - Degree in Analysis and systems development

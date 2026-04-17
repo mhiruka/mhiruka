@@ -2,7 +2,7 @@
 
 ### ~$ Whoami <img src="https://i.ibb.co/QJZdmpv/XOsX.gif" width="100" height="100" />
 
-- Studying web hacking, web API security, and mobile exploitation
+- Studying web hacking and web API security
 - Studying Devops Git Lab, Docker, Kubernets, Jenkins, Observability
 - Certificate in providers:  AWS | Microsoft Azure | Google Cloud | Oracle Cloud |
 
